@@ -2,6 +2,6 @@
 #include <stdio.h>
 int main(void)
 {
-    printf("Hello! I can write program now\n");
+    printf("From test1 : Hello! I can write program now\n");
     return 0;
 }
